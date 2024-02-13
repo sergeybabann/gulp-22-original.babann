@@ -4,8 +4,7 @@ https://www.youtube.com/watch?v=jU88mLuLWlk
 
 
 Results:
-video stop 16.25 - запускается команда gulp
+* 16.25 video stop - запускается команда gulp
+* 19.17 video stop - настроили watcher. команда gulp запускает watcher
 
-
-
-отредактировал пользователя git в локальном компьютере 
+ 
