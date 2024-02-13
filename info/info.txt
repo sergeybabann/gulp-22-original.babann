@@ -6,3 +6,6 @@ https://www.youtube.com/watch?v=jU88mLuLWlk
 Results:
 video stop 16.25 - запускается команда gulp
 
+
+
+отредактировал пользователя git в локальном компьютере 
